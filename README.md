@@ -1,10 +1,10 @@
-**Serverless Application Partitioning Research**
+**Serverless Application Partitioning Research :**
 This repository contains the source code and experimental implementation for research conducted in the field of serverless computing, specifically focusing on application partitioning strategies. A novel algorithm named Security Aware Serverless Application Partitioning (SASAP) has been proposed, alongside implementations of existing approaches for comparative analysis.
 
-**Overview**
+**Overview :**
 Serverless computing allows developers to build and run applications without managing infrastructure. However, partitioning applications securely and efficiently remains a challenge. This work explores and evaluates multiple partitioning strategies, with a focus on balancing security constraints and performance optimization.
 
-**Implemented Algorithms**
+**Implemented Algorithms :**
 The following algorithms are implemented and available in this repository:
 
 SASAP (Security Aware Serverless Application Partitioning) – A novel algorithm proposed in this research for partitioning serverless applications while considering security policies and minimizing inter-function communication.
