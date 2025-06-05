@@ -15,6 +15,9 @@ LRTP (Left Right Tree Traversal) – A tree traversal-based method aiming at eff
 
 BiFPTAS (Bicriteria Fully Polynomial Time Approximation Scheme) – A bicriteria approximation scheme that balances two key metrics such as cost and latency.
 
-**Compiling & Running:**
+**Compiling & Running :**
 All programs are written in C++ and can be compiled and executed using a standard g++ environment, using the command : '
 g++ filename.cpp -o output_file' to compile and './output_file' to run.
+
+**Empirical Analysis :**
+In addition to the C++ implementations, the repository includes a Jupyter Notebook named 'Illustrations.ipynb that contains illustrative graphs and plots.It is the analysis based on empirical data collected from running both the basic and modified versions of the source code. A comparative evaluation of the implemented algorithms has been done. This notebook is useful for understanding the performance and security trade-offs among different approaches through visualizations and data summaries.
